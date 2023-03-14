@@ -12,12 +12,12 @@
    
 
 📚 Atualmente estou estudando:
-- Databricks
-- Azure, AWS
-- Spark e Hadoop
-- AWS Glue
-- Athena
-- Amazon Redshift
+- Databricks;
+- Azure e AWS;
+- Spark e Hadoop;
+- AWS Glue;
+- Athena;
+- Amazon Redshift.
 
 
 "...Aprender, desaprender, reaprender" 🚀📚 (Alvin Toffler)
