@@ -1,4 +1,4 @@
-### Olá, aqui é o Bruno, seja bem-vindo ao meu portifólio  👋
+### Olá, seja bem-vindo ao meu portifólio  👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunolopesk&show_icons=true&theme=onedark)
 
