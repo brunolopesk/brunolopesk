@@ -1,4 +1,5 @@
 ### Olá, seja bem-vindo ao meu portifólio  👋
+Estou trabalhando em alguns projetos, logo logo trarei atualizações por aqui :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunolopesk&show_icons=true&theme=onedark)
 
