@@ -19,6 +19,7 @@ Estou trabalhando em alguns projetos, logo logo trarei atualizações por aqui :
 - AWS Glue;
 - Athena;
 - Amazon Redshift.
+- Pentaho e Alteryx
 
 
 "...Aprender, desaprender, reaprender" 🚀📚 (Alvin Toffler)
