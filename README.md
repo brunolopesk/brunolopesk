@@ -13,13 +13,15 @@ Estou trabalhando em alguns projetos, logo logo trarei atualizações por aqui :
    
 
 📚 Atualmente estou estudando:
+- Conceitos de ETL, Datalake, Data Warehouse de outros conceitos de engenharia de dados;
 - Databricks;
-- Azure e AWS;
-- Spark e Hadoop;
-- AWS Glue;
-- Athena;
-- Amazon Redshift.
+- Power BI;
+- Google Analytics;
+
+
+📚 Há estudar em breve:
 - Pentaho e Alteryx
+- Amazon Web Services (S3, Redshift, Athena, Glue, etc)
 
 
 "...Aprender, desaprender, reaprender" 🚀📚 (Alvin Toffler)
