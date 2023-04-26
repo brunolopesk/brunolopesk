@@ -21,7 +21,10 @@ Estou trabalhando em alguns projetos, logo logo trarei atualizações por aqui :
 
 
 📚 Há estudar em breve:
+
 - Pentaho e Alteryx;
+- Scikit-learn (Python);
+- Seaborn (Python);
 - Amazon Web Services (S3, Redshift, Athena, Glue, etc).
 
 
