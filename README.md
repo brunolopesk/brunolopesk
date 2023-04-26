@@ -7,9 +7,10 @@ Estou trabalhando em alguns projetos, logo logo trarei atualizações por aqui :
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 
-🚀 Linguagens que uso:
+🚀 Principais linguagens e/ou ferramentas que uso:
 - Python;
-- SQL.
+- SQL;
+- Excel.
    
 
 📚 Atualmente estou estudando:
