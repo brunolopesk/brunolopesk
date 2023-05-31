@@ -15,18 +15,13 @@ Estou trabalhando em alguns projetos, logo logo trarei atualizações por aqui :
 
 📚 Atualmente estou estudando:
 - Conceitos de ETL, Datalake, Data Warehouse de outros conceitos de engenharia de dados;
-- Databricks;
-- Power BI;
-- Google Analytics.
-
+- Seaborn (Python);
+- Amazon Web Services (S3, Redshift, Athena, Glue, etc).
 
 📚 Há estudar em breve:
 
 - Pentaho e Alteryx;
 - Scikit-learn (Python);
-- Seaborn (Python);
-- Amazon Web Services (S3, Redshift, Athena, Glue, etc).
-
 
 "...Aprender, desaprender, reaprender" 🚀📚 (Alvin Toffler)
 
